@@ -1,0 +1,12 @@
+body {
+	background-image: url("Background.jpg")
+   }
+h1 {
+	color: gray
+   }
+h2 {
+	color: violet
+    }
+a.contact {
+	text-decoration: none;
+    }
